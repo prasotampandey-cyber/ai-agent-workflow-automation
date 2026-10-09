@@ -1,0 +1,13 @@
+workflow_id,status,execution_time_ms,error
+WF001,success,120,
+WF001,success,140,
+WF002,failed,900,timeout
+WF002,success,700,
+WF003,success,250,
+WF004,failed,1800,llm_timeout
+WF005,success,300,
+WF006,success,1600,
+WF007,success,2100,
+WF008,success,500,
+WF009,success,450,
+WF010,success,350,

@@ -1,0 +1,3 @@
+order_id,customer_email,items,status,shipment_status,tracking
+ORD-1001,a@example.com,Running Shoes x1,Shipped,In Transit,TRK12345
+ORD-1002,b@example.com,T-Shirt x2,Delivered,Delivered,TRK98765

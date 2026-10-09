@@ -1,0 +1,5 @@
+employee,skills,workload_pct
+Alice,"python api sql",40
+Bob,"java spring",80
+Charlie,"python llm api",20
+Diana,"frontend react",60
